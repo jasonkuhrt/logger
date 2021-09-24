@@ -60,7 +60,7 @@
     "chalk": "^4.1.2",
     "fp-ts": "^2.11.3",
     "lodash": "^4.17.21",
-    "strip-ansi": "6"
+    "strip-ansi": "7"
   },
   "importSorter": {
     "emptyLinesBetweenGroups": false,
